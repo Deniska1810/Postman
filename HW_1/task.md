@@ -134,3 +134,6 @@ response:
                      'u_salary_5_years': salary * 4.2}
           }
 ```          
+___
+# **Результат выполнения задания по [cсылке](https://github.com/Deniska1810/Postman/blob/main/HW_1/Postman_hw1.postman_collection.json)**
+## *Окружение к данному заданию по [ссылке](https://github.com/Deniska1810/Postman/blob/main/HW_1/group_32.postman_environment.json)*
